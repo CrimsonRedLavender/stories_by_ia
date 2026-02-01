@@ -2,6 +2,8 @@
 
 **Stories by AI** est un moteur de jeu narratif interactif propulsé par l'intelligence artificielle. Le joueur décrit ses actions, et l'IA génère dynamiquement un univers cohérent, persistant et riche en détails.
 
+<img width="1897" height="817" alt="Capture d’écran 2026-02-01 073944" src="https://github.com/user-attachments/assets/6df1f036-e6ee-49c0-9076-84a7ab2e13a6" />
+
 ## Présentation
 Le moteur ne se contente pas de répondre à l'utilisateur ; il construit une expérience immersive grâce à :
 * **Scènes immersives** : Génération dynamique de descriptions textuelles riches.
