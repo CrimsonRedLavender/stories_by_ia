@@ -1,0 +1,62 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "La Garde d'Émeraude",
+    "description": "Ordre de chevaliers voués à la protection des cités magiques. Leur discipline est légendaire et leurs armures vertes sont reconnues dans tout le royaume.",
+    "keywords": ["chevaliers", "ordre", "protection", "cité", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Cercle des Arcanistes",
+    "description": "Conclave de mages spécialisés dans l'étude des forces mystiques. Ils régulent l'usage de la magie et surveillent les artefacts dangereux.",
+    "keywords": ["mages", "magie", "conclave", "arcanes", "rituels"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Marcheurs des Brumes",
+    "description": "Guilde secrète d'espions et d'assassins opérant dans l'ombre. Ils sont réputés pour disparaître dans un nuage de brume.",
+    "keywords": ["assassins", "espions", "ombre", "brume", "furtif"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Ligue des Marchands d'Or",
+    "description": "Coalition de riches marchands contrôlant les routes commerciales. Leur influence politique dépasse celle de nombreux rois.",
+    "keywords": ["marchands", "commerce", "richesse", "routes", "politique"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Enfants de la Sylve",
+    "description": "Communauté druidique vivant en harmonie avec la nature. Ils protègent les forêts sacrées et les créatures qui y vivent.",
+    "keywords": ["druides", "forêt", "nature", "sacré", "équilibre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Confrérie du Marteau",
+    "description": "Clan nain de maîtres forgerons. Ils produisent les armes et armures les plus résistantes du continent.",
+    "keywords": ["nains", "forge", "marteau", "artisan", "métal"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Voiles d'Azur",
+    "description": "Flotte maritime composée de navigateurs intrépides et de chasseurs de monstres marins. Ils sillonnent les océans à la recherche de trésors.",
+    "keywords": ["marins", "océan", "navire", "monstres", "exploration"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Synode Solaire",
+    "description": "Ordre religieux dédié au dieu du soleil. Ses membres prêchent la lumière et combattent les forces des ténèbres.",
+    "keywords": ["religion", "soleil", "lumière", "sacré", "temple"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Forges Obsidiennes",
+    "description": "Société secrète d'artisans travaillant l'obsidienne vivante. Leurs créations sont réputées pour leur beauté et leur dangerosité.",
+    "keywords": ["obsidienne", "artisan", "forge", "secret", "arme"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Conseil des Anciens",
+    "description": "Assemblée de sages représentant les différentes races du royaume. Ils arbitrent les conflits et préservent l'équilibre politique.",
+    "keywords": ["sages", "politique", "conseil", "équilibre", "royaume"]
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "Drake des Cimes",
+    "description": "Créature reptilienne ailée vivant dans les montagnes. Plus petit qu'un dragon mais tout aussi féroce, il protège jalousement ses nids.",
+    "keywords": ["drake", "montagne", "ailes", "reptile", "feu"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Sylphe des Feuilles",
+    "description": "Esprit aérien vivant dans les forêts anciennes. Invisible aux yeux des mortels, il manipule les vents pour protéger la nature.",
+    "keywords": ["esprit", "vent", "forêt", "nature", "aérien"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Golem de Pierre",
+    "description": "Colosse minéral animé par une magie ancienne. Il obéit uniquement à ceux qui connaissent les runes de contrôle.",
+    "keywords": ["golem", "pierre", "runes", "magie", "colosse"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Lupin Spectral",
+    "description": "Loup fantomatique apparaissant lors des nuits sans lune. Il ne laisse aucune trace et traverse les obstacles comme de la brume.",
+    "keywords": ["loup", "spectre", "fantôme", "nuit", "brume"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Hydre des Marais",
+    "description": "Monstre reptilien à plusieurs têtes vivant dans les marécages. Chaque tête coupée repousse lentement.",
+    "keywords": ["hydre", "marais", "têtes", "reptile", "poison"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Fée Luminescente",
+    "description": "Petite créature ailée émettant une lumière douce. Bienveillante mais capricieuse, elle adore jouer des tours aux voyageurs.",
+    "keywords": ["fée", "lumière", "ailes", "magie", "farce"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Troll des Cavernes",
+    "description": "Créature massive vivant sous terre. Sa peau épaisse et sa force brute en font un adversaire redoutable.",
+    "keywords": ["troll", "caverne", "force", "peau", "souterrain"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Serpent d'Émeraude",
+    "description": "Serpent géant vivant dans les jungles humides. Son venin peut paralyser un cheval en quelques secondes.",
+    "keywords": ["serpent", "venin", "jungle", "émeraude", "reptile"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Griffon Royal",
+    "description": "Créature majestueuse mi-aigle mi-lion. Monture des plus grands héros, il ne se laisse apprivoiser que par les cœurs purs.",
+    "keywords": ["griffon", "aigle", "lion", "monture", "royal"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Ent Ancien",
+    "description": "Arbre humanoïde millénaire. Il se déplace lentement mais possède une sagesse infinie et une force colossale.",
+    "keywords": ["ent", "arbre", "forêt", "ancien", "nature"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Manticore Rouge",
+    "description": "Bête féline dotée d'une queue de scorpion et d'ailes de chauve-souris. Elle chasse en silence dans les déserts brûlants.",
+    "keywords": ["manticore", "scorpion", "ailes", "désert", "poison"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Spectre des Profondeurs",
+    "description": "Apparition aquatique hantant les lacs sombres. On dit qu'il attire les imprudents sous la surface.",
+    "keywords": ["spectre", "lac", "eau", "fantôme", "profondeur"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Chimère Obsidienne",
+    "description": "Créature hybride composée de fragments de bêtes pétrifiées. Sa peau noire est aussi dure que l'obsidienne.",
+    "keywords": ["chimère", "obsidienne", "hybride", "pierre", "monstre"]
+  }
+]

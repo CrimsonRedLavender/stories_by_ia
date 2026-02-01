@@ -1,2 +1,8 @@
-ollama
-python-dotenv
+streamlit
+requests
+faiss-cpu
+langchain
+langchain-community
+fastembed
+sentence-transformers
+chromadb

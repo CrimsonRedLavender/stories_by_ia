@@ -1,0 +1,122 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "La Légende des Trois Couronnes",
+    "description": "Selon les anciens récits, trois couronnes forgées par les dieux contrôlent respectivement la vie, la mort et le destin. Elles furent dispersées après une grande guerre divine.",
+    "keywords": ["couronne", "dieu", "destin", "vie", "mort"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Pacte des Premiers Mages",
+    "description": "Un accord ancestral entre les premiers mages visant à limiter l'usage de la magie destructrice. Les runes du pacte sont gravées dans une pierre indestructible.",
+    "keywords": ["mage", "pacte", "rune", "magie", "ancien"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Chute de Valoria",
+    "description": "Ancienne capitale du royaume, détruite en une seule nuit par une tempête magique incontrôlable. Ses ruines sont encore instables.",
+    "keywords": ["valoria", "ruine", "tempête", "magie", "capitale"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Chroniques du Scribe Éternel",
+    "description": "Un recueil infini consignant chaque événement majeur du monde. On dit que le livre s'écrit tout seul.",
+    "keywords": ["chronique", "livre", "histoire", "éternel", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Guerre des Cinq Royaumes",
+    "description": "Un conflit ancien ayant opposé cinq nations pour le contrôle des terres fertiles du centre du continent.",
+    "keywords": ["guerre", "royaume", "nation", "conflit", "histoire"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Chant des Ancêtres",
+    "description": "Une mélodie mystique que seuls les chamans peuvent entendre. Elle guiderait les âmes perdues vers l'au-delà.",
+    "keywords": ["ancêtre", "chant", "chaman", "âme", "rituel"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Source Primordiale",
+    "description": "Une fontaine sacrée dont l'eau aurait donné naissance à la magie. Elle est protégée par des esprits anciens.",
+    "keywords": ["source", "magie", "eau", "sacré", "origine"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Larmes du Dragon",
+    "description": "Des gemmes rares formées lorsque les dragons meurent. Elles contiennent une énergie brute extrêmement instable.",
+    "keywords": ["dragon", "gemme", "énergie", "rare", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Prophétie du Dernier Aurore",
+    "description": "Une prophétie annonçant qu'un jour, le soleil ne se lèvera plus, à moins qu'un élu ne ravive la flamme céleste.",
+    "keywords": ["prophétie", "aurore", "soleil", "élu", "destin"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Voile des Mondes",
+    "description": "Une barrière magique séparant le monde des vivants de celui des esprits. Parfois, il s'affaiblit, permettant des passages.",
+    "keywords": ["voile", "monde", "esprit", "barrière", "surnaturel"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Archives Perdues",
+    "description": "Une bibliothèque mythique contenant des connaissances interdites. Elle apparaît seulement à ceux jugés dignes.",
+    "keywords": ["archive", "bibliothèque", "connaissance", "interdit", "mythique"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Malédiction des Mille Reflets",
+    "description": "Une ancienne malédiction qui emprisonne les âmes dans des miroirs enchantés. Briser le miroir libère ou détruit l'esprit.",
+    "keywords": ["malédiction", "miroir", "âme", "reflet", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Serment des Gardiens",
+    "description": "Un ordre ancien chargé de protéger les artefacts divins. Leur serment les lie magiquement à leur mission.",
+    "keywords": ["gardien", "serment", "artefact", "divin", "ordre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Portes du Néant",
+    "description": "D'immenses portails scellés menant vers un plan inconnu. Leur ouverture provoquerait un cataclysme.",
+    "keywords": ["porte", "néant", "portail", "plan", "cataclysme"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Couronne des Vents",
+    "description": "Un artefact légendaire permettant de contrôler les tempêtes. Il fut perdu lors d'une bataille aérienne.",
+    "keywords": ["couronne", "vent", "tempête", "artefact", "légendaire"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Pacte des Ombres",
+    "description": "Un accord secret entre des sorciers et des entités d'ombre. Il leur confère un pouvoir immense mais corrompt leur âme.",
+    "keywords": ["ombre", "pacte", "sorcier", "corruption", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Flamme Inextinguible",
+    "description": "Un feu sacré qui brûle depuis des millénaires sans jamais faiblir. On dit qu'il renferme un fragment du soleil.",
+    "keywords": ["flamme", "sacré", "feu", "soleil", "éternel"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Les Échos du Premier Monde",
+    "description": "Des ruines si anciennes qu'elles précèdent toute civilisation connue. Elles résonnent d'une énergie primordiale.",
+    "keywords": ["ruine", "ancien", "premier monde", "énergie", "mystère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Nuit des Mille Voix",
+    "description": "Un événement rare où les esprits des ancêtres murmurent à travers le vent, révélant des secrets oubliés.",
+    "keywords": ["voix", "esprit", "vent", "secret", "ancêtre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Sang des Titans",
+    "description": "Une substance mythique issue des titans déchus. Elle confère une force colossale mais consume lentement celui qui l'utilise.",
+    "keywords": ["titan", "sang", "force", "mythique", "pouvoir"]
+  }
+]

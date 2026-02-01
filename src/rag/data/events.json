@@ -1,0 +1,122 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "L'Éclipse Écarlate",
+    "description": "Une éclipse rare teintée de rouge sang. Les créatures nocturnes deviennent plus agressives et les mages ressentent une perturbation dans les flux magiques.",
+    "keywords": ["éclipse", "lune", "magie", "nocturne", "perturbation"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Marche des Ents",
+    "description": "Les arbres vivants quittent leur forêt pour se rendre vers un lieu inconnu. Leur déplacement provoque des tremblements de terre.",
+    "keywords": ["ent", "forêt", "marche", "nature", "tremblement"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Chute de l'Étoile Bleue",
+    "description": "Une étoile filante s'écrase dans les montagnes, laissant derrière elle un cratère irradiant une énergie mystérieuse.",
+    "keywords": ["étoile", "cratère", "énergie", "montagne", "mystère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Voile des Brumes",
+    "description": "Une brume surnaturelle recouvre les plaines, rendant la navigation impossible. Des silhouettes étranges apparaissent dans la brume.",
+    "keywords": ["brume", "surnaturel", "plaine", "silhouette", "mystère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Révolte des Golems",
+    "description": "Des golems autrefois inactifs s'animent soudainement et attaquent les villages voisins sans raison apparente.",
+    "keywords": ["golem", "attaque", "village", "révolte", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Festival des Mille Lanternes",
+    "description": "Une célébration annuelle où des lanternes enchantées s'envolent dans le ciel, guidant les esprits bienveillants.",
+    "keywords": ["festival", "lanterne", "célébration", "esprit", "lumière"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "L'Éveil du Serpent-Roi",
+    "description": "Une créature antique se réveille dans les profondeurs d'un désert oublié, provoquant des tempêtes de sable.",
+    "keywords": ["serpent", "désert", "tempête", "ancien", "éveil"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Nuit des Murmures",
+    "description": "Une nuit où les morts chuchotent aux vivants. Les frontières entre les mondes deviennent floues.",
+    "keywords": ["murmure", "mort", "nuit", "esprit", "voile"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Grande Migration des Griffons",
+    "description": "Des centaines de griffons traversent le ciel en direction des montagnes du nord. Leur passage est un spectacle rare.",
+    "keywords": ["griffon", "migration", "ciel", "montagne", "vol"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Sceau Fracturé",
+    "description": "Un ancien sceau magique se brise, libérant une énergie chaotique et ouvrant un passage vers un autre plan.",
+    "keywords": ["sceau", "magie", "chaos", "portail", "ancien"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Peste de Verre",
+    "description": "Une maladie étrange transforme lentement la peau des victimes en cristal fragile.",
+    "keywords": ["peste", "cristal", "maladie", "transformation", "fragile"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Retour du Héros Perdu",
+    "description": "Un héros disparu depuis des décennies réapparaît, inchangé, affirmant n'avoir vécu qu'une seule nuit.",
+    "keywords": ["héros", "retour", "temps", "mystère", "disparition"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Danse des Flammes",
+    "description": "Un phénomène magique où les feux prennent vie et dansent dans les rues, sans brûler quoi que ce soit.",
+    "keywords": ["flamme", "magie", "danse", "feu", "phénomène"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "L'Invasion des Ombres",
+    "description": "Des silhouettes d'ombre émergent des fissures du sol et envahissent les villages, absorbant la lumière.",
+    "keywords": ["ombre", "invasion", "lumière", "fissure", "sombre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Chant des Sirènes",
+    "description": "Les sirènes des côtes chantent d'une seule voix, provoquant des tempêtes et attirant les navires vers les récifs.",
+    "keywords": ["sirène", "chant", "tempête", "mer", "récif"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Prophétie de l'Aube",
+    "description": "Une prophétie oubliée se réactive, inscrite en lettres de lumière dans le ciel du matin.",
+    "keywords": ["prophétie", "aube", "lumière", "ciel", "destin"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Chasse Royale",
+    "description": "Les nobles du royaume organisent une chasse massive, attirant aventuriers et mercenaires de tout le continent.",
+    "keywords": ["chasse", "noble", "forêt", "royal", "aventure"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "L'Ouverture du Marché des Miracles",
+    "description": "Un marché itinérant apparaît soudainement dans une clairière, vendant des objets magiques rares.",
+    "keywords": ["marché", "magie", "objet", "rare", "clairière"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "La Tempête d'Éclats",
+    "description": "Une tempête magique projette des fragments lumineux dans le ciel, altérant temporairement les sorts.",
+    "keywords": ["tempête", "magie", "éclat", "ciel", "sort"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Le Silence des Cloches",
+    "description": "Toutes les cloches du royaume cessent soudainement de sonner, même lorsqu'on les frappe. Un mauvais présage selon les anciens.",
+    "keywords": ["cloche", "silence", "présage", "royaume", "mystère"]
+  }
+]

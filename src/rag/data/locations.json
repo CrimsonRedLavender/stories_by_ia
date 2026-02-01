@@ -1,0 +1,122 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "Forêt Murmurante",
+    "description": "Une forêt ancienne où les arbres semblent chuchoter entre eux. Les voyageurs y entendent parfois des voix venues du passé.",
+    "keywords": ["forêt", "murmure", "nature", "ancien", "esprit"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Port des Brumes",
+    "description": "Un port isolé constamment enveloppé de brume. Les marins prétendent que des silhouettes fantomatiques y errent la nuit.",
+    "keywords": ["port", "brume", "mer", "navire", "fantôme"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Monts d'Argent",
+    "description": "Une chaîne de montagnes scintillant sous la lumière du soleil. On y trouve des mines riches en métaux rares.",
+    "keywords": ["montagne", "mine", "argent", "roche", "hauteur"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Cité de Luneclaire",
+    "description": "Une ville bâtie autour d'un immense cristal lunaire. La magie y est omniprésente et les rues brillent d'une lueur bleutée.",
+    "keywords": ["cité", "lune", "cristal", "magie", "ville"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Marais des Ombres",
+    "description": "Un marécage sombre où la brume ne se dissipe jamais. Les voyageurs y disparaissent sans laisser de trace.",
+    "keywords": ["marais", "ombre", "brume", "danger", "sombre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Sanctuaire du Soleil",
+    "description": "Un temple sacré dédié au dieu du soleil. Les prêtres y pratiquent des rituels de lumière.",
+    "keywords": ["temple", "soleil", "sacré", "rituel", "lumière"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Ruines de l'Aube",
+    "description": "Vestiges d'une civilisation oubliée. Les pierres gravées brillent faiblement au lever du soleil.",
+    "keywords": ["ruines", "ancien", "aube", "pierre", "mystère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Clairière des Sylphes",
+    "description": "Une clairière enchantée où les esprits du vent dansent au crépuscule.",
+    "keywords": ["clairière", "sylphe", "vent", "nature", "crépuscule"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Forteresse de Fer-Noir",
+    "description": "Une forteresse naine creusée dans la montagne. Ses portes massives sont réputées inviolables.",
+    "keywords": ["forteresse", "nain", "montagne", "fer", "défense"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Lac du Miroir",
+    "description": "Un lac parfaitement calme reflétant le ciel comme un miroir. On dit qu'il révèle la vraie nature de ceux qui s'y regardent.",
+    "keywords": ["lac", "eau", "miroir", "calme", "réflexion"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Désert des Mille Sables",
+    "description": "Un désert immense où les dunes changent constamment de forme. Des ruines enfouies apparaissent parfois après une tempête.",
+    "keywords": ["désert", "sable", "tempête", "ruine", "chaleur"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Tour de l'Archiviste",
+    "description": "Une tour gigantesque contenant des milliers de grimoires. L'Archiviste y vit seul depuis des siècles.",
+    "keywords": ["tour", "archive", "livre", "magie", "connaissance"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Île des Brisants",
+    "description": "Une île rocheuse entourée de récifs mortels. Les naufrages y sont fréquents.",
+    "keywords": ["île", "récif", "mer", "naufrage", "roche"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Val des Échos",
+    "description": "Une vallée où chaque son semble se répéter à l'infini. Certains échos ne correspondent à aucune voix vivante.",
+    "keywords": ["vallée", "écho", "son", "mystère", "nature"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Crypte des Mille Veilles",
+    "description": "Un réseau souterrain rempli de tombes anciennes. Des torches s'y allument parfois sans intervention humaine.",
+    "keywords": ["crypte", "tombe", "souterrain", "ancien", "mystère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Jardin des Lueurs",
+    "description": "Un jardin enchanté où poussent des fleurs luminescentes. La nuit, il brille comme un ciel étoilé.",
+    "keywords": ["jardin", "fleur", "lumière", "magie", "nature"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Pont des Soupirs",
+    "description": "Un vieux pont de pierre où les amoureux viennent faire des vœux. On dit qu'il exauce les promesses sincères.",
+    "keywords": ["pont", "pierre", "amour", "vœu", "romantique"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Grotte des Murmures Cristallins",
+    "description": "Une grotte remplie de cristaux chantants. Leurs vibrations peuvent apaiser ou rendre fou.",
+    "keywords": ["grotte", "cristal", "chant", "vibration", "souterrain"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Colline du Veilleur",
+    "description": "Une colline isolée où se dresse une statue géante. Personne ne sait qui elle représente.",
+    "keywords": ["colline", "statue", "ancien", "mystère", "pierre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Bastion des Tempêtes",
+    "description": "Un bastion perché au sommet d'une falaise battue par les vents. Les orages y sont constants.",
+    "keywords": ["bastion", "tempête", "falaise", "vent", "orage"]
+  }
+]

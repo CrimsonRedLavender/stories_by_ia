@@ -1,0 +1,144 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "Aelwyn la Vagabonde",
+    "description": "Archère elfe solitaire parcourant les forêts anciennes, réputée pour sa précision surnaturelle et son refus de s'attacher à un clan.",
+    "keywords": ["elfe", "archère", "forêt", "solitaire", "vagabonde"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Bromar Forge-Feu",
+    "description": "Nain forgeron légendaire, capable de travailler des métaux que même les dragons craignent. Son marteau est dit habité par un esprit ancien.",
+    "keywords": ["nain", "forgeron", "marteau", "métal", "forge"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Seraphine de Luneclaire",
+    "description": "Magicienne humaine spécialisée dans les enchantements lunaires. Elle protège les villages isolés des créatures nocturnes.",
+    "keywords": ["mage", "lune", "enchantement", "magie", "protection"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Kael le Sans-Voix",
+    "description": "Assassin muet dont les lames sont imprégnées d'une magie d'ombre. On dit qu'il n'a jamais raté une cible.",
+    "keywords": ["assassin", "ombre", "silence", "lames", "furtif"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Lyria Vent-Argent",
+    "description": "Druidesse capable de communiquer avec les esprits du vent. Elle voyage pour rétablir l'équilibre entre les royaumes.",
+    "keywords": ["druide", "vent", "esprit", "nature", "équilibre"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Thorgan le Brisé",
+    "description": "Ancien chevalier déchu, rongé par la culpabilité. Il erre avec une armure cabossée et un sens de la justice inébranlable.",
+    "keywords": ["chevalier", "déchu", "justice", "armure", "errant"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Mirella des Mille Visages",
+    "description": "Changeforme capable d'adopter l'apparence de n'importe quel humanoïde. Elle vend ses services au plus offrant.",
+    "keywords": ["changeforme", "illusion", "espion", "métamorphose", "discrétion"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Eldran le Scribe Éternel",
+    "description": "Sorcier immortel qui consigne chaque événement majeur du monde dans un grimoire infini.",
+    "keywords": ["sorcier", "immortel", "grimoire", "histoire", "connaissance"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Rokhan Peau-de-Pierre",
+    "description": "Géant pacifique dont la peau est aussi dure que le granit. Il protège les voyageurs perdus dans les montagnes.",
+    "keywords": ["géant", "montagne", "pierre", "protecteur", "force"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Isolde la Chante-Rune",
+    "description": "Barde runique capable de tisser des sorts à travers ses chants. Ses mélodies peuvent apaiser ou détruire.",
+    "keywords": ["barde", "runes", "chant", "musique", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Varos le Marcheur d'Orages",
+    "description": "Guerrier béni par les esprits de la foudre. Il porte une lance crépitante d'énergie.",
+    "keywords": ["foudre", "guerrier", "orage", "lance", "énergie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Nymia la Tisseuse d'Ames",
+    "description": "Nécromancienne bienveillante qui guide les esprits perdus vers l'au-delà plutôt que de les asservir.",
+    "keywords": ["nécromancienne", "esprits", "âme", "mort", "rituel"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Garruk le Chasseur Rouge",
+    "description": "Chasseur orc redouté, connu pour sa maîtrise des bêtes sauvages et son code d'honneur strict.",
+    "keywords": ["orc", "chasseur", "bêtes", "sauvage", "honor"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Elowen des Brumes",
+    "description": "Prêtresse mystérieuse vivant dans les marais. Elle parle en énigmes et voit des fragments du futur.",
+    "keywords": ["prêtresse", "marais", "vision", "brume", "oracle"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Dorian le Vagabond Céleste",
+    "description": "Explorateur humain ayant voyagé dans les royaumes célestes. Il porte une boussole qui pointe vers les miracles.",
+    "keywords": ["explorateur", "céleste", "boussole", "voyage", "mystique"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Khalys la Danseuse de Flammes",
+    "description": "Mage du feu dont les mouvements ressemblent à une danse hypnotique. Elle maîtrise les flammes comme une extension de son corps.",
+    "keywords": ["feu", "danse", "mage", "flamme", "combat"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Torvald Main-de-Fer",
+    "description": "Mercenaire humain doté d'une main artificielle forgée par les nains. Il est réputé pour sa loyauté inébranlable.",
+    "keywords": ["mercenaire", "main", "fer", "loyauté", "combat"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Selene Ombre-Lune",
+    "description": "Voleuse agile opérant dans les grandes cités. Elle ne vole que les riches corrompus.",
+    "keywords": ["voleuse", "ombre", "cité", "agile", "justice"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Faelar le Gardien des Sources",
+    "description": "Elfe aquatique chargé de protéger les sources sacrées. Il manipule l'eau avec une grâce surnaturelle.",
+    "keywords": ["elfe", "eau", "source", "gardien", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Morgath le Dévoreur de Rêves",
+    "description": "Démon mineur qui se nourrit des cauchemars. Paradoxalement, il protège les enfants des terreurs nocturnes.",
+    "keywords": ["démon", "rêve", "cauchemar", "ombre", "protection"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Ysolda la Tisseuse de Destins",
+    "description": "Vieille sorcière capable de lire et d'altérer les fils du destin. Elle vit recluse dans une cabane isolée.",
+    "keywords": ["destin", "sorcière", "fils", "avenir", "magie"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Riven le Marcheur Gris",
+    "description": "Rôdeur taciturne parcourant les terres sauvages. Il connaît chaque sentier oublié.",
+    "keywords": ["rôdeur", "sauvage", "sentier", "solitaire", "traque"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Helia Couronne-Solaire",
+    "description": "Paladine consacrée au dieu du soleil. Sa présence seule repousse les créatures des ténèbres.",
+    "keywords": ["paladine", "soleil", "lumière", "dieu", "sacré"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Vorin le Sculpteur d'Ombres",
+    "description": "Artisan capable de donner forme matérielle aux ombres. Ses créations sont aussi belles que dangereuses.",
+    "keywords": ["ombre", "artisan", "sculpteur", "magie", "création"]

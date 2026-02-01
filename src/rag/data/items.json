@@ -1,0 +1,92 @@
+[
+  {
+    "theme": "fantasy",
+    "name": "Lame des Brasiers",
+    "description": "Épée longue enchantée qui s'embrase lorsque son porteur est en danger. Forgée dans le cœur d'un volcan ancien.",
+    "keywords": ["épée", "feu", "arme", "volcan", "combat"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Amulette du Souffle-Lune",
+    "description": "Amulette argentée qui protège son porteur des malédictions mineures et éclaire faiblement dans l'obscurité.",
+    "keywords": ["amulette", "lune", "protection", "magie", "lumière"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Grimoire des Murmures",
+    "description": "Livre ancien contenant des sorts oubliés. Les pages semblent chuchoter lorsque quelqu'un s'en approche.",
+    "keywords": ["grimoire", "livre", "sort", "magie", "ancien"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Arc des Sylves",
+    "description": "Arc elfique fabriqué à partir de bois vivant. Il ne rate jamais sa cible lorsqu'il est utilisé en forêt.",
+    "keywords": ["arc", "elfe", "forêt", "arme", "nature"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Pierre de Clairvoyance",
+    "description": "Cristal translucide permettant d'entrevoir des fragments du futur. Son usage répété épuise l'esprit.",
+    "keywords": ["pierre", "clairvoyance", "futur", "vision", "cristal"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Bottes du Voyageur Infatigable",
+    "description": "Chaussures enchantées permettant de marcher des jours entiers sans ressentir la fatigue.",
+    "keywords": ["bottes", "voyage", "endurance", "marche", "enchantement"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Flasque de Brume",
+    "description": "Récipient contenant une brume magique qui peut être libérée pour obscurcir une zone entière.",
+    "keywords": ["flasque", "brume", "fumée", "ombre", "utilitaire"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Anneau des Trois Vœux",
+    "description": "Anneau doré capable d'exaucer trois souhaits limités. Les vœux trop ambitieux échouent ou se retournent contre le porteur.",
+    "keywords": ["anneau", "vœu", "magie", "artefact", "doré"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Potion de Vitalité",
+    "description": "Potion rouge vif qui restaure l'énergie et accélère la guérison des blessures mineures.",
+    "keywords": ["potion", "soin", "vitalité", "guérison", "consommable"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Cape des Ombres",
+    "description": "Cape noire permettant de se fondre dans l'obscurité. Très prisée des voleurs et des assassins.",
+    "keywords": ["cape", "ombre", "furtif", "assassin", "discrétion"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Orbe des Marées",
+    "description": "Sphère bleutée contrôlant de petites quantités d'eau. Utilisée par les mages aquatiques.",
+    "keywords": ["orbe", "eau", "marée", "magie", "sphère"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Clé des Mille Portes",
+    "description": "Clé magique ouvrant une porte aléatoire dans un rayon de plusieurs kilomètres. Son usage est imprévisible.",
+    "keywords": ["clé", "porte", "magie", "aléatoire", "artefact"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Talisman du Gardien",
+    "description": "Talisman protecteur qui absorbe une attaque mortelle avant de se briser.",
+    "keywords": ["talisman", "protection", "gardien", "magie", "défense"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Harpe des Échos",
+    "description": "Instrument ancien dont les cordes résonnent avec les émotions du joueur. Peut apaiser les créatures hostiles.",
+    "keywords": ["harpe", "musique", "écho", "apaisement", "instrument"]
+  },
+  {
+    "theme": "fantasy",
+    "name": "Poudre d'Étoile",
+    "description": "Substance scintillante capable de révéler les traces invisibles ou les écritures cachées.",
+    "keywords": ["poudre", "étoile", "révélation", "trace", "magie"]
+  }
+]
