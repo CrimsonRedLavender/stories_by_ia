@@ -247,6 +247,107 @@ Le code est conçu pour être modulaire :
 
 ---
 
-## Licence
+
+# Améliorations possibles & limites actuelles
+
+Même si le moteur fonctionne, il peut être largement amélioré pour renforcer la qualité narrative, la fluidité, la cohérence et la rapidité de l'expérience.
+
+---
+
+## Qualité de génération & cohérence narrative
+
+### Traduction parfois approximative
+Le modèle peut produire des formulations maladroites ou des tournures anglaises mal traduites.
+
+### Répétitions ou boucles narratives
+Certaines scènes tournent en rond, répètent des informations ou n'avancent pas suffisamment l'histoire.
+
+### Progression narrative parfois lente
+Le modèle peut s'attarder sur des descriptions ou ignorer les milestones, ce qui ralentit l'avancée de l'intrigue.
+
+### Incohérences entre scènes
+Malgré la mémoire courte et longue, il peut arriver que des détails changent ou soient oubliés.
+
+---
+
+## Performance & temps de génération
+
+### Temps de génération parfois long
+Selon la scène et le contexte, le modèle peut mettre plusieurs secondes à répondre.
+
+### Auto-continue perfectible
+Certaines scènes devraient avancer automatiquement mais nécessitent encore une action manuelle.
+
+### Gestion du contexte perfectible
+Le RAG JSON et la mémoire vectorielle peuvent être enrichis pour éviter les pertes de cohérence.
+
+---
+
+## Fonctionnalités multimédia
+
+### Text-to-Speech
+Possibilité d'ajouter une lecture audio des scènes (pyttsx3, Coqui TTS, etc.).
+
+### Génération d'images
+Intégration possible d'un générateur d'illustrations pour les scènes, lieux ou personnages.
+
+---
+
+## Intelligence narrative
+
+### Meilleure gestion des choix
+Certains choix sont trop vagues ou trop similaires ; un système de génération plus contrôlé pourrait améliorer la variété.
+
+### Système de quêtes plus structuré
+Les milestones pourraient être transformés en véritables arcs narratifs avec états, sous-objectifs et résolutions.
+
+### Personnalités des personnages
+Possibilité d'ajouter des fiches de personnages plus détaillées pour renforcer leur cohérence.
+
+### Gestion des émotions et du ton
+Le moteur pourrait adapter le style narratif selon les événements (tension, humour, mystère…).
+
+---
+
+## RAG & mémoire
+
+### RAG JSON plus riche
+Ajouter davantage de fichiers thématiques pour augmenter la variété du lore.
+
+### Mémoire longue plus intelligente
+Filtrer les scènes pertinentes selon le type d'action (combat, exploration, dialogue…).
+
+### Résumé dynamique amélioré
+Le résumé des dernières scènes pourrait être plus synthétique et mieux structuré.
+
+---
+
+## Interface utilisateur
+
+### Mode "lecture automatique"
+Avancer automatiquement tant qu'il n'y a pas de choix.
+
+### Mode "résumé rapide"
+Afficher un résumé de l'histoire jusqu'ici.
+
+### Mode "debug narratif"
+Afficher les prompts envoyés au modèle pour comprendre les décisions.
+
+### Surlignage des éléments importants
+Personnages, lieux, objets, indices…
+
+---
+
+## Robustesse & stabilité
+
+### Meilleure gestion des erreurs JSON
+Le moteur pourrait corriger automatiquement les erreurs mineures (virgules manquantes, guillemets oubliés…).
+
+### Fallback en cas d'échec de génération
+Si le modèle renvoie un JSON invalide, proposer une régénération automatique.
+
+---
+
+# Licence
 
 Projet personnel — libre d'utilisation et de modification.
